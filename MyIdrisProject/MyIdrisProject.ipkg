@@ -1,0 +1,7 @@
+package: "MyIdrisProject"
+
+version: "0.1.0" source-dir: "src"
+
+description: " This is a simple Idris project to demonstrate building and running an Idris program. "
+
+maintainer: "Your Name your.email@example.com" license: "MIT" 
